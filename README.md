@@ -2,6 +2,11 @@
 
 ## 📘 Project Overview  
 This repository presents a **complete end-to-end data-science project** built on the Business Permits dataset. It covers the full analytical pipeline — from raw data cleaning to exploratory data analysis (EDA), feature engineering, machine-learning modeling, and final packaging for deployment.
+## 📂 Dataset Access
+Due to GitHub’s 25 MB upload restriction, the full cleaned dataset is hosted externally on Dropbox.  
+You can download it using the link below:  
+
+🔗 [Download Retail_Sales_and_Retail_Use_Business_Registrations.csv](https://www.dropbox.com/scl/fi/445i27ran7oy2vre127n3/Retail_Sales_and_Retail_Use_Business_Registrations.csv?rlkey=n9lcf85u0huj9ja0qn49iay40&dl=1)
 
 ---
 
